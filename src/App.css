@@ -1,3 +1,40 @@
 .App {
   text-align: center;
 }
+
+
+h1{
+  color: #008080;
+  color: #14170c;
+  font-size: 10rem;
+}
+
+
+/* h2 highlight color */
+h1::selection {
+  background: #008080;
+  background: #14170c;
+  color: white;
+}
+
+
+
+h2{
+  color: #008080;
+  color: #14170c;
+  font-size: 5rem;
+}
+
+
+/* h2 highlight color */
+h2::selection {
+  background: #008080;
+  background: #14170c;
+  color: white;
+}
+
+
+.rocklee{
+  width: 5%;
+  height: 5%;
+}
