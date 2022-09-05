@@ -54,7 +54,7 @@ function App() {
 
           {/* <h2> I'm Saikiran Belana</h2> */}
         </ParallaxLayer>
-        <ParallaxLayer offset={1} speed={2}>
+        <ParallaxLayer offset={1} speed={2}>  
           <h2> Software Engineer</h2>
         </ParallaxLayer>
         <ParallaxLayer offset={2} speed={2.5}>
